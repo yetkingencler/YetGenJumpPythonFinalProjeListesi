@@ -4,8 +4,6 @@ Merhaba Sevgili Jumperlarımız 🙌
 
 ⏰Eğitim programımız boyunca öğrendiklerimizin tamamını kullanma ve onları harika bir projeyle sergileme zamanı geldi! Sizin için bol öğretici bir o kadar da eğlenceli bir proje haftası olmasını diliyoruz 🙏
 
-Sizin ve proje takımınız için birbirinden öğretici ve geliştirirken eğlenebileceğin iki proje belirledik. Ek olarak proje takımınızla inisiyatif alarak bir farklılık yaratmak ve kendi eklemelerinizi yapmak isterseniz de çok güzel bir fırsatımız var. Dilerseniz takımınızla birlikte sizinle paylaştığımız projelere eklemeler yapabilir ya da beklediğimiz kazanımlara uygun olacak şekilde kendi projenizi geliştirebilirsiniz.
-
 📌 Proje takımınızla birlikte, birini seçerek geliştirmenizi beklediğimiz projelere aşağıdan ulaşabilirsiniz 👇
 
 # Proje 1 - Kahve Otomatı
@@ -46,12 +44,8 @@ Eğer yukarıdaki projeler bizim proje takımımızı kesmez diyorsanız projeni
 
 # Proje Teslimi
 
-🦾 Takım olarak geliştirdiğiniz projeyle birlikte sizden takımınızla birlikte hazırladığınız, projenizi tanıttığınız, zorlandığınız noktalardan ve bu noktalara nasıl çözüm ürettiğinizden bahsettiğiniz en az fazla 5 dakika olan bir tanıtım videosu hazırlamanızı bekliyoruz.
+🦾 Takım olarak geliştirdiğiniz projeyle birlikte sizden takımınızla birlikte hazırladığınız, projenizi tanıttığınız, zorlandığınız noktalardan ve bu noktalara nasıl çözüm ürettiğinizden bahsettiğiniz **en az fazla 5 dakika** olan bir tanıtım videosu hazırlamanızı bekliyoruz.
 
-🦾 Takım olarak geliştirdiğiniz projeyi ve tanıtım videosunu, projenizi GitHub’a yükledikten; tanıtım videonuzuysa YouTube’e liste dışı olarak yükledikten sonra, GitHub ve YouTube linklerini [buradaki](https://airtable.com/shr7E07dZPaN9w55f) “Proje Paylaşma Formu”nu doldurmanızı rica ediyoruz.
+🦾 Takım olarak geliştirdiğiniz projeyi **GitHub’a** ve tanıtım videonuzu **YouTube’e** dilerseniz liste dışı, dilerseniz de herkese açık olarak yükledikten sonra, GitHub ve YouTube linklerini [buradaki](https://airtable.com/shr7E07dZPaN9w55f) **“Proje Paylaşma Formu”nu** doldurmanızı rica ediyoruz.
 
-❓GitHub’ı nasıl kullanacağın ve projenizi nasıl yükleyeceğinizle ilgili soru işaretleriniz varsa seni takımınla birlikte 13 Eylül Salı 20.00’de gerçekleştireceğimiz GitHub eğitimine bekliyoruz.
-
-❓Ek olarak projenizle ilgili takımınla birlikte cevaplayamadığın sorular için 16 Eylül Cuma günü 20.00’de proje atölyemize sizi bekliyoruz.
-
-⏰ Unutma, projenizi tamamlamak ve “Proje Paylaşma Formu”nu doldurmak için 19 Eylül Pazartesi 23.59’a kadar süreniz var! Formu proje takımından sadece bir kişinin doldurması yeterlidir.
+⏰ Unutma, projenizi tamamlamak ve “Proje Paylaşma Formu”nu doldurmak için **19 Eylül Pazartesi 23.59’a kadar** süreniz var! Formu proje takımından sadece bir kişinin doldurması yeterlidir.
